@@ -17,10 +17,7 @@ env/
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
-# Generated charts
-*.png
-*.jpg
-*.jpeg
+
 
 # Data files (optional - remove if you want to push csv)
 *.csv
