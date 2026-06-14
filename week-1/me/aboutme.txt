@@ -1,0 +1,7 @@
+This is Jaideep Tripurani.Java Full Stack Engineer with 2+ years of professional experience building scalable Spring Boot microservices, Python services,
+React.js frontends, and REST APIs across enterprise and product environments. Delivered backend systems handling 1M+ daily
+transactions at Walmart with 99.9% uptime, and built full stack product features at Teckbon Inc supporting 50K+ users. Strong
+depth in PostgreSQL and MySQL schema design, SQL optimization, Hibernate/JPA, and microservices architecture.
+Deployed production applications on AWS using Docker, Kubernetes, and CI/CD pipelines via GitHub Actions and Jenkins.
+Brings GenAI as an added differentiator — integrated LangChain, OpenAI API, and hybrid search pipelines into enterprise
+backend workflows. M.S. in Computer Science, University of North Texas (May 2025).
